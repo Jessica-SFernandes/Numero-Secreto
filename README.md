@@ -1,4 +1,9 @@
-<h1>Jogo do número secreto</h1>
+
+
+![logo-alura](https://github.com/user-attachments/assets/07e0b036-175a-4f50-a72f-834bcc22a647)
+
+<h1 align="center"> 🎮 Jogo do Número Secreto </h1>
+
 
 <h2>📎 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da <a href="https://cursos.alura.com.br/dashboard">Alura.</a></p>
